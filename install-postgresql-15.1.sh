@@ -18,7 +18,7 @@ mkdir -p $local_db_handler
 
 
 echo downloading postgresql
-#curl --create-dir --output $local_db_handler/postgres.tar.gz https://ftp.postgresql.org/pub/source/v15.1/postgresql-15.1.tar.gz # > $templog
+curl --create-dir --output $local_db_handler/postgres.tar.gz https://ftp.postgresql.org/pub/source/v15.1/postgresql-15.1.tar.gz # > $templog
 
 
 echo extracting postgresql
