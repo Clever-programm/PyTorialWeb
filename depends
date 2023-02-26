@@ -1,0 +1,4 @@
+gcc
+bison
+flex
+libreadline-dev
