@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 @app.route('/')
 @app.route('/pytorial')
-def index():
+def start():
     return render_template('main_page.html')
 
 
