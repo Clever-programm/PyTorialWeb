@@ -1,0 +1,13 @@
+.main_img {
+    width: 100%;
+    position: absolute;
+    z-index: 0;
+}
+
+.img {
+    position: absolute;
+    z-index: 1;
+    margin-left: 7%;
+    margin-top: 12%;
+    width: 16%
+}
