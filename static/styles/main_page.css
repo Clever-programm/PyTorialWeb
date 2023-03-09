@@ -1,13 +1,25 @@
 .main_img {
-    width: 100%;
+    width: 99%;
     position: absolute;
     z-index: 0;
 }
 
-.img {
+.description {
     position: absolute;
     z-index: 1;
-    margin-left: 7%;
+    margin-left: 5.5%;
     margin-top: 12%;
-    width: 16%
+    width: 30%;
+}
+
+.name_img {
+    width: 50%;
+}
+
+.des_txt {
+    color: #FFFFFF;
+    font-size: 34px;
+    margin-top: 70px;
+    margin-left: 2%;
+    font-family: Montserrat;
 }
